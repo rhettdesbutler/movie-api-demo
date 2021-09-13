@@ -26,6 +26,7 @@ Deployment:
 - `sh runners/run.sh`: run in order to deploy infrastructure.
 - `sh runners/destroy.sh`: remove infrastructure listed in the `main.ts` file. NOTE: Will remove all related and nested infrastructure.
 
+NOTE: add your own `terraform.tfvars` folder with access keys in order to deploy projects to AWS.
 ### Running Tests
 
 Tests still currently need to be added to this repository.
