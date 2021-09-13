@@ -1,5 +1,5 @@
 
-# Terraform-Project
+# Movie-API-Terraform Project
 
 Repo for a test to see the capabilities of terraform, using a test movie API project. This serves stricly as a demonstration.
 
